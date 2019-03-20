@@ -22,3 +22,13 @@
     background: #5c3a13;
     border: 1px solid black;
 }
+
+.right-eye {
+    height: 20px;
+    width: 20px;
+    margin-top: -19px;
+    margin-right: -40px;
+    border-radius: 20px;
+    background: #5c3a13;
+    border: 1px solid black;
+}
