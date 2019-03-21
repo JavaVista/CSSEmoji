@@ -3,6 +3,13 @@
 ## Task
 ### 🐝🍈 Recreate Your Favorite EMOJI 💥🏋️‍♀️
 
+- 🎨 Challenge provided by [Cascading Coders](https://twitter.com/CascadingCoders/status/1106390901004357633)
+
+- 👥 Join our Community:
+[Facebook Group](https://www.facebook.com/groups/1752972351391061/)
+
+- ❤️ Like/Follow: [Twitter](https://twitter.com/cascadingcoders)
+
 ## Project
 My favorite emoji happens to be the happy emoji. So,  I created one with just Pure CSS and with a sprinkle of animation
 
@@ -10,6 +17,10 @@ My favorite emoji happens to be the happy emoji. So,  I created one with just Pu
 
 ![Happy Emoji - Screenshot](happyEmoji.png)
 Happy Emoji - Screenshot
+
+#### Demo
+
+[CodePen](https://codepen.io/techno-logic/pen/XGypMm)
 
 ## Technology
 
