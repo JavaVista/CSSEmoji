@@ -16,6 +16,7 @@ My favorite emoji happens to be the happy emoji. So,  I created one with just Pu
 ### Screenshot
 
 ![Happy Emoji - Screenshot](happyEmoji.png)
+
 Happy Emoji - Screenshot
 
 #### Demo
