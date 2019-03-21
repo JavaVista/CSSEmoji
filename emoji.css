@@ -9,9 +9,16 @@
 
 h1 {
     font-family: 'Patrick Hand SC', cursive;
-    font-size: 3em;
+    font-size: 4em;
     text-align: center;
     color: var(--font-color);
+}
+
+p {
+    font-family: 'Patrick Hand SC' ;
+    font-size: 2em;
+    text-align: center;
+    color: var(--features-color);
 }
 
 #center {
